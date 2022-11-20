@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saya pernah sekolah di TK Aisyah, SD Negeri 8 Biau dan SD Negeri 10 Biau,
+                      SMP Negeri 2 Biau, dan SMANSA Biau. Saya lanjut kuliah di UNIVERSITAS TADULAKO
+                      Fakultas Teknik, Prodi TEKNIK INFORMATIKA."
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
